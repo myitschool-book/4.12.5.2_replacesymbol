@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ReplaceSymbol</string>
+    <string name="enter_text">введите текст</string>
+    <string name="replace">заменить</string>
+</resources>
